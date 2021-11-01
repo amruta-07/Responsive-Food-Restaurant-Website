@@ -5,7 +5,7 @@
 
   ![ss2](https://user-images.githubusercontent.com/79842525/139587596-d72db9ef-24b7-440e-a4e2-b7505d7c3ff0.png)  
     
-    ![Screenshot (204)](https://user-images.githubusercontent.com/79842525/139686228-96b9282b-bf31-4322-89ba-d8c78e7832d0.png)
+   
 
  ![Screenshot (199)](https://user-images.githubusercontent.com/79842525/139687005-e318bdb7-4689-412d-bdc4-b22a0cdc8694.png)
 
