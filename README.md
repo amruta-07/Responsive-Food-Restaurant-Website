@@ -1,16 +1,20 @@
 # Responsive-Food-Restaurant-Website  
   
   ### 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)    
-  ![ss1](https://user-images.githubusercontent.com/79842525/139536236-5288d68e-769c-4915-9ca0-5e5dbe4d0c8b.png)
+  ![ss1](https://user-images.githubusercontent.com/79842525/139536236-5288d68e-769c-4915-9ca0-5e5dbe4d0c8b.png)  
+  
 
-  ![ss2](https://user-images.githubusercontent.com/79842525/139587596-d72db9ef-24b7-440e-a4e2-b7505d7c3ff0.png)  
+  ![ss2](https://user-images.githubusercontent.com/79842525/139587596-d72db9ef-24b7-440e-a4e2-b7505d7c3ff0.png)   
+  
     
    
 
- ![Screenshot (199)](https://user-images.githubusercontent.com/79842525/139687005-e318bdb7-4689-412d-bdc4-b22a0cdc8694.png)  
+ ![Screenshot (199)](https://user-images.githubusercontent.com/79842525/139687005-e318bdb7-4689-412d-bdc4-b22a0cdc8694.png)    
+ 
    
    
-![Screenshot (203)](https://user-images.githubusercontent.com/79842525/139689002-c19d9de7-ccb6-47be-8e48-4ead5cecddc4.png)  
+![Screenshot (203)](https://user-images.githubusercontent.com/79842525/139689002-c19d9de7-ccb6-47be-8e48-4ead5cecddc4.png)   
+
   
   
 ![Screenshot (206)](https://user-images.githubusercontent.com/79842525/139853089-11470b1b-e2f2-4e7f-8073-ee7d265ab8e5.png)
