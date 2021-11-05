@@ -39,7 +39,7 @@ To start contributing, follow the below guidelines:
 git clone --depth 1 https://github.com/<your_user_name>/Tribute-Page.git
 
 
-*3.* Navigate to the project directory :file_folder: .
+*3.* Navigate to the project directory :file_folder: 
 
 
 cd Responsive-Food-Restaurant-Website
