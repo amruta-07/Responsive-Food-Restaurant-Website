@@ -81,7 +81,7 @@ git checkout -b <your_branch_name>
 *9.* Track your changes:heavy_check_mark: .
 
 
-git add  
+git add .  
 
 
 *10.* Commit your changes .
