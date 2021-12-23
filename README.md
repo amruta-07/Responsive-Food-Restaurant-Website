@@ -1,6 +1,6 @@
 # Responsive-Food-Restaurant-Website  
   
-  ### 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository.:)   
+  ### 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository.:   
     
   ### ScreenShots 
     
